@@ -1,0 +1,15 @@
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\bin\Debug\net6.0\Encrypt&decrypt.exe
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\bin\Debug\net6.0\Encrypt&decrypt.deps.json
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\bin\Debug\net6.0\Encrypt&decrypt.runtimeconfig.json
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\bin\Debug\net6.0\Encrypt&decrypt.dll
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\bin\Debug\net6.0\Encrypt&decrypt.pdb
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.csproj.CoreCompileInputs.cache
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.dll
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\refint\Encrypt&decrypt.dll
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.pdb
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\Encrypt&decrypt.genruntimeconfig.cache
+C:\Users\Kaiser\Desktop\Encrypt&decrypt\obj\Debug\net6.0\ref\Encrypt&decrypt.dll
