@@ -1,0 +1,15 @@
+C:\Users\ENVY\OneDrive\Desktop\Conversion\bin\Debug\net6.0\Conversion.exe
+C:\Users\ENVY\OneDrive\Desktop\Conversion\bin\Debug\net6.0\Conversion.deps.json
+C:\Users\ENVY\OneDrive\Desktop\Conversion\bin\Debug\net6.0\Conversion.runtimeconfig.json
+C:\Users\ENVY\OneDrive\Desktop\Conversion\bin\Debug\net6.0\Conversion.dll
+C:\Users\ENVY\OneDrive\Desktop\Conversion\bin\Debug\net6.0\Conversion.pdb
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.csproj.AssemblyReference.cache
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfo.cs
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.dll
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\refint\Conversion.dll
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.pdb
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\Conversion.genruntimeconfig.cache
+C:\Users\ENVY\OneDrive\Desktop\Conversion\obj\Debug\net6.0\ref\Conversion.dll
