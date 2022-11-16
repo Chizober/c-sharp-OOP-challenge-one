@@ -7,7 +7,7 @@ class Encrypt{
   public string  Encryptor(string messages)
   {
  List<string> encrypted =new List<string>();
-foreach(char message in messages.ToString())
+foreach(char message in messages.ToString().ToLower())
  {
   switch (message){
            case 'a':
